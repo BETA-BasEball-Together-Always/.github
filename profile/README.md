@@ -11,18 +11,26 @@
       <br />
     </td>
     <td align="center">
-      <a href="https://github.com/bmbx08">
-        <img src="https://avatars.githubusercontent.com/bmbx08" width="100px;" alt="정기찬"/>
+      <a href="https://github.com/bmbx08](https://github.com/Khaneul1">
+        <img src="https://avatars.githubusercontent.com/u/164875275?v=4" width="100px;" alt="정기찬"/>
         <br />
-        <sub><b>정기찬</b></sub>
+        <sub><b>고하늘</b></sub>
       </a>
       <br />
     </td>
     <td align="center">
       <a href="https://github.com/Jhkim6620">
-        <img src="https://avatars.githubusercontent.com/Jhkim6620" width="100px;" alt="김종혁"/>
+        <img src="https://avatars.githubusercontent.com/u/107754446?u=c74654d123c63b68289d8e24e79b7f797216fcf9&v=4&size=64" width="100px;" alt="김종혁"/>
         <br />
         <sub><b>김종혁</b></sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/dhgudtmxhs">
+        <img src="https://avatars.githubusercontent.com/u/126877943?v=4" width="100px;" alt="김종혁"/>
+        <br />
+        <sub><b>오형석</b></sub>
       </a>
       <br />
     </td>
