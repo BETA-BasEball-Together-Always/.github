@@ -1,4 +1,4 @@
-## 👥 Team Member
+<img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/f4db689e-cce4-4274-b763-274dd4e15a50" /><img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/6c412d4d-15e0-452d-8f11-f0327ae08e05" />## 👥 Team Member
 
 <table>
   <tr>
@@ -20,7 +20,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/Jhkim6620">
-        <img src="https://avatars.githubusercontent.com/u/107754446?u=c74654d123c63b68289d8e24e79b7f797216fcf9&v=4&size=64" width="100px;" alt="김종혁"/>
+        <img src="https://avatars.githubusercontent.com/u/107754446?v=4" width="100px;" alt="김종혁"/>
         <br />
         <sub><b>김종혁</b></sub>
       </a>
