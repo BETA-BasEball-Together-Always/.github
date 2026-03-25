@@ -1,44 +1,36 @@
-<img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/f4db689e-cce4-4274-b763-274dd4e15a50" /><img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/6c412d4d-15e0-452d-8f11-f0327ae08e05" />## 👥 Team Member
-
 <table>
   <tr>
     <td align="center">
       <a href="https://github.com/NohYeongO">
-        <img src="https://avatars.githubusercontent.com/NohYeongO" width="100px;" alt="노영오"/>
+        <img src="https://github.com/NohYeongO.png" width="100px" />
         <br />
         <sub><b>노영오</b></sub>
       </a>
-      <br />
     </td>
     <td align="center">
-      <a href="https://github.com/bmbx08](https://github.com/Khaneul1">
-        <img src="https://avatars.githubusercontent.com/u/164875275?v=4" width="100px;" alt="정기찬"/>
+      <a href="https://github.com/Khaneul1">
+        <img src="https://avatars.githubusercontent.com/u/164875275?v=4" width="100px" />
         <br />
         <sub><b>고하늘</b></sub>
       </a>
-      <br />
-    </td>
-    <td align="center">
-      <a href="https://github.com/Jhkim6620">
-        <img src="https://avatars.githubusercontent.com/u/107754446?v=4" width="100px;" alt="김종혁"/>
-        <br />
-        <sub><b>김종혁</b></sub>
-      </a>
-      <br />
     </td>
     <td align="center">
       <a href="https://github.com/dhgudtmxhs">
-        <img src="https://avatars.githubusercontent.com/u/126877943?v=4" width="100px;" alt="김종혁"/>
+        <img src="https://avatars.githubusercontent.com/u/126877943?v=4" width="100px" />
         <br />
         <sub><b>오형석</b></sub>
       </a>
-      <br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/Jhkim6620">
+        <img src="https://avatars.githubusercontent.com/u/107754446?v=4" width="100px" />
+        <br />
+        <sub><b>김종혁</b></sub>
+      </a>
     </td>
   </tr>
 </table>
 
-
 ## ✨ 진행 중인 프로젝트
 - [BETA - BackEnd](https://github.com/BETA-BasEball-Together-Always/BETA-Server)
 - [BETA - FrontEnd](https://github.com/BETA-BasEball-Together-Always/BETA-Client)
-
