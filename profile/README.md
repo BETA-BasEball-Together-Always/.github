@@ -33,4 +33,5 @@
 
 ## ✨ 진행 중인 프로젝트
 - [BETA - BackEnd](https://github.com/BETA-BasEball-Together-Always/BETA-Server)
-- [BETA - FrontEnd](https://github.com/BETA-BasEball-Together-Always/BETA-Client)
+- [BETA - App FrontEnd](https://github.com/BETA-BasEball-Together-Always/BETA-Client)
+- [BETA - Admin Web FrontEnd](https://github.com/BETA-BasEball-Together-Always/BETA-Admin-Web)
