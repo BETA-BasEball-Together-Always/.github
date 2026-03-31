@@ -12,7 +12,7 @@ BETA는 야구 팬들이 함께 응원하고 소통할 수 있는 커뮤니티 �
 | --- | --- | --- |
 | BETA App FrontEnd | 사용자용 앱 프론트엔드 | [BETA-Client](https://github.com/BETA-BasEball-Together-Always/BETA-Client) |
 | BETA Admin FrontEnd | 관리자 웹 프론트엔드 | [BETA-Admin-Web](https://github.com/BETA-BasEball-Together-Always/BETA-Admin-Web) |
-| BETA Backend | 사용자 및 관리자 기능을 지원하는 백엔드 서버 | [BETA-Backend-Server](https://github.com/BETA-BasEball-Together-Always/BETA-Backend-Server) |
+| BETA Backend | 사용자 앱 · 관리자 웹 백엔드 | [BETA-Backend-Server](https://github.com/BETA-BasEball-Together-Always/BETA-Backend-Server) |
 
 ## 👥 Team
 
@@ -21,30 +21,30 @@ BETA는 야구 팬들이 함께 응원하고 소통할 수 있는 커뮤니티 �
     <td align="center">
       <img src="https://github.com/NohYeongO.png" width="100px" alt="노영오" />
       <br />
-      <a href="https://github.com/NohYeongO"><sub><b>노영오</b></sub></a>
+      <sup><a href="https://github.com/NohYeongO">노영오</a></sup>
       <br />
-      <sub><code>Backend</code></sub>
+      <img src="https://img.shields.io/badge/Backend-0F172A?style=flat-square&logo=spring&logoColor=white" alt="Backend" height="18" />
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/164875275?v=4" width="100px" alt="고하늘" />
       <br />
-      <a href="https://github.com/Khaneul1"><sub><b>고하늘</b></sub></a>
+      <sup><a href="https://github.com/Khaneul1">고하늘</a></sup>
       <br />
-      <sub><code>Frontend</code></sub>
+      <img src="https://img.shields.io/badge/Frontend-2563EB?style=flat-square&logo=react&logoColor=white" alt="Frontend" height="18" />
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/126877943?v=4" width="100px" alt="오형석" />
       <br />
-      <a href="https://github.com/dhgudtmxhs"><sub><b>오형석</b></sub></a>
+      <sup><a href="https://github.com/dhgudtmxhs">오형석</a></sup>
       <br />
-      <sub><code>Backend</code></sub>
+      <img src="https://img.shields.io/badge/Backend-0F172A?style=flat-square&logo=spring&logoColor=white" alt="Backend" height="18" />
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/107754446?v=4" width="100px" alt="김종혁" />
       <br />
-      <a href="https://github.com/Jhkim6620"><sub><b>김종혁</b></sub></a>
+      <sup><a href="https://github.com/Jhkim6620">김종혁</a></sup>
       <br />
-      <sub><code>PM</code></sub>
+      <img src="https://img.shields.io/badge/PM-D97706?style=flat-square&logo=notion&logoColor=white" alt="PM" height="18" />
     </td>
   </tr>
 </table>
