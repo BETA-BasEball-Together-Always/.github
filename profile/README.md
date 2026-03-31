@@ -21,28 +21,28 @@ BETA는 야구 팬들이 함께 응원하고 소통할 수 있는 커뮤니티 �
     <td align="center">
       <img src="https://github.com/NohYeongO.png" width="100px" alt="노영오" />
       <br />
-      <sup><a href="https://github.com/NohYeongO">노영오</a></sup>
+      <sup><a href="https://github.com/NohYeongO"><b>노영오</b></a></sup>
       <br />
       <img src="https://img.shields.io/badge/Backend-0F172A?style=flat-square&logo=spring&logoColor=white" alt="Backend" height="18" />
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/164875275?v=4" width="100px" alt="고하늘" />
       <br />
-      <sup><a href="https://github.com/Khaneul1">고하늘</a></sup>
+      <sup><a href="https://github.com/Khaneul1"><b>고하늘</b></a></sup>
       <br />
       <img src="https://img.shields.io/badge/Frontend-2563EB?style=flat-square&logo=react&logoColor=white" alt="Frontend" height="18" />
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/126877943?v=4" width="100px" alt="오형석" />
       <br />
-      <sup><a href="https://github.com/dhgudtmxhs">오형석</a></sup>
+      <sup><a href="https://github.com/dhgudtmxhs"><b>오형석</b></a></sup>
       <br />
       <img src="https://img.shields.io/badge/Backend-0F172A?style=flat-square&logo=spring&logoColor=white" alt="Backend" height="18" />
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/107754446?v=4" width="100px" alt="김종혁" />
       <br />
-      <sup><a href="https://github.com/Jhkim6620">김종혁</a></sup>
+      <sup><a href="https://github.com/Jhkim6620"><b>김종혁</b></a></sup>
       <br />
       <img src="https://img.shields.io/badge/PM-D97706?style=flat-square&logo=notion&logoColor=white" alt="PM" height="18" />
     </td>
